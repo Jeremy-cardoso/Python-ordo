@@ -1,5 +1,4 @@
-# Python ordonnancement
-Projet Python
+
 # Python-ordonnancement
 Problème d'ordonnancement
 # Objectif
